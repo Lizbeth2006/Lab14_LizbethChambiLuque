@@ -1,0 +1,6 @@
+@Lab12_LizbethChambiLuque_HostAddress = http://localhost:5118
+
+GET {{Lab12_LizbethChambiLuque_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
